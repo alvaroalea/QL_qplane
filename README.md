@@ -10,7 +10,7 @@ This board has been reverse engineered from pictures freely available on interne
 
 THIS BOARD HAS NOT BEEN TESTED!! Use at your own risk.
 
-##Information
+## Information
 
 This backplane is intended for install the QL main board in a PC AT case.
 
